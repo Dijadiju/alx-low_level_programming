@@ -14,3 +14,6 @@ The 0. Preprocessor
 
 4. Hello, puts
    Writes a C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line using puts instead of printf adn returning the value 0.
+
+5. Hello, printf
+   Writes a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line. Using the printf function and returning a 0.
