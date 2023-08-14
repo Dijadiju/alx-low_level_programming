@@ -17,3 +17,6 @@ The 0. Preprocessor
 
 5. Hello, printf
    Writes a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line. Using the printf function and returning a 0.
+
+6. Size is not grandeur, and territory does not make a nation
+   Writes a C program that prints the size of various types on the computer it is compiled and run on and must return a value of zero.
