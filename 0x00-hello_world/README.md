@@ -20,3 +20,6 @@ The 0. Preprocessor
 
 6. Size is not grandeur, and territory does not make a nation
    Writes a C program that prints the size of various types on the computer it is compiled and run on and must return a value of zero.
+
+7. Intel
+   Writes a script that generates the assembly code (Intel syntax) of a C code and save it in an output file. The C file is saved in the $CFILE and the output file is named as the C file but with the extension .s instead of .c.
