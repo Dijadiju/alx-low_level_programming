@@ -2,7 +2,6 @@
 
 /**
  * main - Entry point
- * Description: Prints the size of various types.
  *
  * Return: Always 0(Success)
  */
