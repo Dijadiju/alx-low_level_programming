@@ -5,3 +5,6 @@ The 0. Preprocessor
     
 1. Compiler
    Writes a script that compiles a C file but does not link. The C file name will be saved in the variable $CFILE and  named the same as the C file, but with the extension .o instead of .c.
+
+2. Assembler
+   Writes a script that generates the assembly code of a C code and save it in an output file. The C file name is saved in the variable $CFILE and output file is named the same as the C file, but with the extension .s instead of .c.
