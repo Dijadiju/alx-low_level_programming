@@ -1,5 +1,7 @@
 0x00. C - Hello, World Project
 
-The 0. Preprocessor script
-    Writes a script that runs a C file through the preprocessor and save the result into another file. The C file name will be saved in the variable $CFILE and the output should be saved in the file c.
+The 0. Preprocessor 
+    Writes a script that runs a C file through the preprocessor and save the result into another file. The C file name is saved in the variable $CFILE and the output should be saved in the file c.
     
+1. Compiler
+   Writes a script that compiles a C file but does not link. The C file name will be saved in the variable $CFILE and  named the same as the C file, but with the extension .o instead of .c.
