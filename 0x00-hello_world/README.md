@@ -10,4 +10,7 @@ The 0. Preprocessor
    Writes a script that generates the assembly code of a C code and save it in an output file. The C file name is saved in the variable $CFILE and output file is named the same as the C file, but with the extension .s instead of .c.
 
 3. Name
-   Writes a script that compiles a C file and creates an executable named cisfun. The C file name is saved in the varibale $CFILE.
+   Writes a script that compiles a C file and creates an executable named cisfun. The C file name is saved in the varibale $CFILE.e
+
+4. Hello, puts
+   Writes a C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line using puts instead of printf adn returning the value 0.
