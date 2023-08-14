@@ -23,3 +23,6 @@ The 0. Preprocessor
 
 7. Intel
    Writes a script that generates the assembly code (Intel syntax) of a C code and save it in an output file. The C file is saved in the $CFILE and the output file is named as the C file but with the extension .s instead of .c.
+
+8. Script 101-quote.c 
+   Write a C program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error. Without using printf or puts and program return the value of zero.
