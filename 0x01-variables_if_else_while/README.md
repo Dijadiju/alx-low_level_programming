@@ -8,4 +8,6 @@ The 2-print_alphabet.c program prints the lowercase alphabet from a-z followed b
 
 The 3-print_alphabets.c program prints the aplhabets in lowercase and then in uppercase  followed by a new line using the putchar data.
 
-The 4-print_alphabt.c program prints alphabet in the lowercase exlcuding the letters q and e followed by a new line.
+The 4-print_alphabt.c program prints alphabet in the lowercase exlcuding the letters q and e followed by a new line.e
+
+The 5-print_numbers.c program prints all single digit numbers of base 10 starting from 0 followed by a new line.
