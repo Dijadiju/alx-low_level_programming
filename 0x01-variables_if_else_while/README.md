@@ -21,3 +21,5 @@ The 8-print_base16.c program prints all the numbers of base 16 in lowercase, fol
 The 9-print_comb.c program prints all possible combinations of single-digit numbers separated by commas and space in ascending order using putchar function.
 
 The 100-print_comb3.c program prints all possible different combinations of two digits separated by commas and space in accending order using only putchar function.
+
+The 101-print_comb4.c program prints all possible different combinations of three digits separated by commas and spaces in ascending order using only putchar.
