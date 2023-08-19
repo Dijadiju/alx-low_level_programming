@@ -17,3 +17,5 @@ The 6-print_numberz.c program prints all single digit numbers of base 10 startin
 The 7-print_tebahpla.c program  prints lowercase alphabet in reverse followed by an newline using putchar function.
 
 The 8-print_base16.c program prints all the numbers of base 16 in lowercase, followed by a new line using only putchar function.
+
+The 9-print_comb.c program prints all possible combinations of single-digit numbers separated by commas and space in ascending order using putchar function. 
