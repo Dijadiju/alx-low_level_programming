@@ -23,3 +23,5 @@ The 9-print_comb.c program prints all possible combinations of single-digit numb
 The 100-print_comb3.c program prints all possible different combinations of two digits separated by commas and space in accending order using only putchar function.
 
 The 101-print_comb4.c program prints all possible different combinations of three digits separated by commas and spaces in ascending order using only putchar.
+
+The 102-print_comb5.c program prints all possible combinations of two two-digit numbers between 0-99 separated by spaces as well as numbers separated by commas and spaces using the putchar function.
