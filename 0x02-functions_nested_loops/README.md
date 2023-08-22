@@ -10,3 +10,5 @@ The 2-print_alphabet_x10.c program prints the lowercase alphabet 10 times follow
 The 3-islower.c program checks for lowercase character.
 
 The 4-isalpha.c program checks for alphabetic character.
+
+The 5-sign.c program prints the sign of a number.
