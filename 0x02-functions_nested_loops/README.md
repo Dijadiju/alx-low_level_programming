@@ -16,3 +16,5 @@ The 5-sign.c program prints the sign of a number.
 The 6-abs.c program computes the absolute value of an integer.
 
 The 8-24_hours.c program prints  minute of the day of Jack Bauer, starting from 00:00 to 23:59.
+
+The 9-times_table.c program  prints the 9 times table, starting with 0.
