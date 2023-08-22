@@ -12,3 +12,5 @@ The 3-islower.c program checks for lowercase character.
 The 4-isalpha.c program checks for alphabetic character.
 
 The 5-sign.c program prints the sign of a number.
+
+The 6-abs.c program computes the absolute value of an integer.
